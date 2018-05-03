@@ -1,0 +1,18 @@
+db.books.insert({
+	title:'Learning to code MongoDB',
+	author:'Umang Gupta',
+	category:'Technology'
+})
+
+db.books.insert({
+	title:'Learning to code Jeckyll',
+	author:'Alice Gao',
+	category:'CS'
+})
+
+db.books.insert({
+	title:'Learning to code in NodeJs',
+	author:'Dave Tompkins',
+	category:'Tech'
+})
+
